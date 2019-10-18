@@ -15,6 +15,12 @@ title: 关于我
 
 - 能够使用 Git 对代码版本进行控制
 
+## 开源项目
+
+- [人脸识别](https://github.com/cwh94)
+
+- [TODO](https://github.com/cwh94)
+
 ## 联系我
 
 - GitHub : [cwh94](https://github.com/cwh94)
